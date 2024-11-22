@@ -57,6 +57,7 @@
     "@atproto/api": "^0.13.11",
     "@braintree/sanitize-url": "^6.0.2",
     "@discord/bottom-sheet": "bluesky-social/react-native-bottom-sheet",
+    "@embrace-io/react-native": "^5.0.2",
     "@emoji-mart/react": "^1.1.1",
     "@expo/html-elements": "^0.4.2",
     "@expo/webpack-config": "^19.0.0",

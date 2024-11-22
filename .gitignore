@@ -91,7 +91,6 @@ stats.json
 
 
 # Android & iOS folders
-/android/
 /ios/
 
 # environment variables
