@@ -89,10 +89,6 @@ stats.json
 !.gitignore
 !.github
 
-
-# Android & iOS folders
-/ios/
-
 # environment variables
 .env
 .env.*

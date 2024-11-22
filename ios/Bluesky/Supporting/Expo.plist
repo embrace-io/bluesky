@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>EXUpdatesCheckOnLaunch</key>
+    <string>NEVER</string>
+    <key>EXUpdatesEnabled</key>
+    <false/>
+    <key>EXUpdatesLaunchWaitMs</key>
+    <integer>30000</integer>
+    <key>EXUpdatesRuntimeVersion</key>
+    <string>1.95.0</string>
+    <key>EXUpdatesURL</key>
+    <string>https://updates.bsky.app/manifest</string>
+  </dict>
+</plist>
